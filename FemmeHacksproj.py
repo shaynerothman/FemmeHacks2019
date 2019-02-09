@@ -3,7 +3,7 @@ FemmeHacks 2019 Project
 Shayne Rothman
 Shiyi Lin
 Vicky Liu
-Arin Wheeler
+Aerin Wheeler
 """
 
 # Can contact emergency contact after individual breaches limit
